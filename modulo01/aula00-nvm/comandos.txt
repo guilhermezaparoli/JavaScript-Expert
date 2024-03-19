@@ -1,0 +1,11 @@
+nvm install 19 -> instala a versão 19
+nvm install --lts -> instrala a versão long-term support
+nvm list
+nvm use 19 -> usa a versão 19 que já está instalada na sua máquina
+nvm alias default 18 -> define o computador para usar a versão
+
+
+
+criar .nvmrc - com a versão desejada e nmv use para ativar aquela versão
+
+node -v > .nvmrc  => salva a versão apropriada para aquele projeto
